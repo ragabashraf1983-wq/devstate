@@ -1,4 +1,5 @@
 # Devstate v3.1
+![Devstate Dashboard Screenshot](dashboard.png)
 
 Local-only, read-only project status dashboard. Devstate watches configured repositories without creating or changing files inside them. Only `config.json` inside the Devstate folder is written.
 
